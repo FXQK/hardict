@@ -1,6 +1,6 @@
-//go:generate go-bindata -prefix "assets/" -pkg main -o assets.go assets/
+//go:generate go-bindata -prefix "assets/" -pkg hardict -o assets.go assets/
 
-package main
+package hardict
 
 import (
 	"fmt"

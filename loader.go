@@ -1,4 +1,4 @@
-package main
+package hardict
 
 import (
 	"io/ioutil"
