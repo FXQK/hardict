@@ -3,7 +3,7 @@ hardict
 
 ![travis](https://travis-ci.org/repong/hardict.svg?branch=master)
 
-基于sego的屏蔽字检索工具，自带同步和谐字典功能
+基于sego的屏蔽字检索工具，自带同步和谐字典功能，示例请参见[wego](https://github.com/repong/wego)
 
 ### 字典
 
@@ -39,7 +39,3 @@ hardict
   ``` go
   hardict.ReplaceInvalidWords(text)
   ```
-  
-### 例子
-
-参见https://github.com/repong/wego
