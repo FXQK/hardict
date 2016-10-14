@@ -39,3 +39,7 @@ hardict
   ``` go
   hardict.ReplaceInvalidWords(text)
   ```
+  
+### 例子
+
+参见https://github.com/repong/wego
